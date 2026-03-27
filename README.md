@@ -10,13 +10,6 @@ A repository dedicated to analyzing and addressing the intersection of climate c
 - Policy recommendations
 - Case study documentation
 
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies
-3. Review documentation in `/docs`
-4. Run analysis scripts in `/scripts`
-
 ## Contributing
 
 Contributions are welcome. Please review `CONTRIBUTING.md` for guidelines.
