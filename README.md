@@ -12,7 +12,7 @@ A repository dedicated to analyzing and addressing the intersection of climate c
 
 ## Contributing
 
-Contributions are welcome. Please review `CONTRIBUTING.md` for guidelines.
+Contributions are welcome. 
 
 ## License
 
