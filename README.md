@@ -1,4 +1,4 @@
-# 🌍 Climate Against Conflict
+# Climate Against Conflict
 
 A data-driven project analyzing the relationship between climate change, environmental stress, and conflict in South Sudan and Sub-Saharan Africa.
 
@@ -6,7 +6,7 @@ This project leverages geospatial analysis, conflict datasets, and environmental
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze how climate factors influence conflict patterns
 - Explore trends in political violence and civilian targeting
@@ -15,7 +15,7 @@ This project leverages geospatial analysis, conflict datasets, and environmental
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 This repository currently includes:
 
@@ -23,11 +23,11 @@ This repository currently includes:
 - Political violence events and fatalities
 - Mobility tracking baseline assessment (DTM dataset)
 
-> 📌 Data sources include humanitarian and conflict monitoring organizations (HRP, IOM, etc.)
+> Data sources include humanitarian and conflict monitoring organizations (HRP, IOM, etc.)
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **QGIS** – geospatial analysis and mapping
 - **Excel / CSV** – data storage and preprocessing
@@ -35,7 +35,7 @@ This repository currently includes:
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 1. **Data Collection**
    - Gather conflict and mobility datasets from verified sources
@@ -58,7 +58,7 @@ This repository currently includes:
 
 ---
 
-## 🗺️ Planned Visualizations
+## Planned Visualizations
 
 - Conflict event heatmaps
 - Fatality distribution maps
@@ -67,7 +67,7 @@ This repository currently includes:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 climate-against-conflict/
@@ -84,7 +84,7 @@ climate-against-conflict/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.8+
@@ -102,7 +102,7 @@ jupyter notebook notebooks/01_data_exploration.ipynb
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Automate data pipelines (Python + APIs)
 - Integrate climate datasets (rainfall, drought index, temperature)
@@ -111,18 +111,18 @@ jupyter notebook notebooks/01_data_exploration.ipynb
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, ideas, and feedback are welcome.
 
 ---
 
-## 📜 License
+## License
 
 See LICENSE file for details.
 
 ---
 
-## 💡 Project Vision
+## Project Vision
 
 Promoting sustainable peace through data, climate awareness, and geospatial intelligence.
