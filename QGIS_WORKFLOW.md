@@ -4,7 +4,7 @@ This guide outlines how to use QGIS for geospatial analysis and visualization in
 
 ---
 
-## 🗺️ Getting Started with QGIS
+## Getting Started with QGIS
 
 ### Project Setup
 
@@ -23,7 +23,7 @@ This guide outlines how to use QGIS for geospatial analysis and visualization in
 
 ---
 
-## 📊 Data Integration
+## Data Integration
 
 ### Importing Tabular Data
 
@@ -41,7 +41,7 @@ This guide outlines how to use QGIS for geospatial analysis and visualization in
 
 ---
 
-## 🎨 Visualization Techniques
+## Visualization Techniques
 
 ### Heatmap Visualization
 
@@ -70,7 +70,7 @@ This guide outlines how to use QGIS for geospatial analysis and visualization in
 
 ---
 
-## 📈 Time Series & Temporal Analysis
+## Time Series & Temporal Analysis
 
 ### Creating animated maps (time series)
 
@@ -89,7 +89,7 @@ This guide outlines how to use QGIS for geospatial analysis and visualization in
 
 ---
 
-## 🔗 Multi-Layer Analysis
+## Multi-Layer Analysis
 
 ### Overlay Analysis
 
@@ -117,7 +117,7 @@ This guide outlines how to use QGIS for geospatial analysis and visualization in
 
 ---
 
-## 💾 Exporting Results
+## Exporting Results
 
 ### Save QGIS Project
 - File → Save As
@@ -141,7 +141,7 @@ This guide outlines how to use QGIS for geospatial analysis and visualization in
 
 ---
 
-## 📂 Project Organization
+## Project Organization
 
 ```
 qgis-projects/
@@ -157,7 +157,7 @@ qgis-projects/
 
 ---
 
-## 🔍 Recommended Analyses
+## Recommended Analyses
 
 ### 1. Conflict Intensity by Region
 - Import political violence dataset
@@ -182,7 +182,7 @@ qgis-projects/
 
 ---
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
