@@ -46,7 +46,7 @@ def save_processed_data(df: pd.DataFrame, filename: str) -> None:
     """Save processed data to CSV."""
     output_path = PROCESSED_DATA_DIR / filename
     df.to_csv(output_path, index=False)
-    print(f"✓ Saved: {output_path}")
+    print(f"Saved: {output_path}")
 
 
 def print_dataset_summary(df: pd.DataFrame, name: str = "Dataset") -> None:
