@@ -1,10 +1,10 @@
-# 🚀 Quick Start Guide
+# Quick Start Guide
 
 Get up and running with the Climate Against Conflict project.
 
 ---
 
-## 1️⃣ Initial Setup (5 minutes)
+## 1. Initial Setup (5 minutes)
 
 ### Install Python Dependencies
 
@@ -24,14 +24,14 @@ pip install -r requirements.txt
 
 Check that the following datasets exist in the project root:
 ```
-✓ south-sudan_hrp_civilian_targeting_events_and_fatalities_by_month-year_as-of-26mar2026.xlsx
-✓ south-sudan_hrp_political_violence_events_and_fatalities_by_month-year_as-of-26mar2026.xlsx
-✓ ssd-dtm-mobility-tracking-r16-baseline-assessment-dataset_updated_20250507.xlsx
+OK - south-sudan_hrp_civilian_targeting_events_and_fatalities_by_month-year_as-of-26mar2026.xlsx
+OK - south-sudan_hrp_political_violence_events_and_fatalities_by_month-year_as-of-26mar2026.xlsx
+OK - ssd-dtm-mobility-tracking-r16-baseline-assessment-dataset_updated_20250507.xlsx
 ```
 
 ---
 
-## 2️⃣ Explore Data (10 minutes)
+## 2. Explore Data (10 minutes)
 
 ### Option A: Run Python Script
 
@@ -56,7 +56,7 @@ jupyter notebook 01_data_exploration.ipynb
 
 ---
 
-## 3️⃣ Data Structure Overview
+## 3. Data Structure Overview
 
 After exploration, familiarize yourself with:
 
@@ -66,7 +66,7 @@ After exploration, familiarize yourself with:
 
 ---
 
-## 4️⃣ Next Steps
+## 4. Next Steps
 
 ### For Data Analysis
 1. Review [DATA_DICTIONARY.md](data/metadata/DATA_DICTIONARY.md)
@@ -87,7 +87,7 @@ After exploration, familiarize yourself with:
 
 ---
 
-## 📚 Key Files
+## Key Files
 
 | File | Purpose |
 |------|---------|
@@ -101,7 +101,7 @@ After exploration, familiarize yourself with:
 
 ---
 
-## 🔗 Common Commands
+## Common Commands
 
 ```bash
 # Activate virtual environment
@@ -122,7 +122,7 @@ deactivate
 
 ---
 
-## ❓ Troubleshooting
+## Troubleshooting
 
 **Q: Data files not found when running scripts?**
 - Ensure you're in the project root directory (`c:\Users\lomas\QGIS\QGIS`)
@@ -138,7 +138,7 @@ deactivate
 
 ---
 
-## 📞 Support
+## Support
 
 For questions or issues:
 1. Check [DATA_DICTIONARY.md](data/metadata/DATA_DICTIONARY.md) for data structure
@@ -147,15 +147,15 @@ For questions or issues:
 
 ---
 
-## ✅ Checklist for First Session
+## Checklist for First Session
 
 - [ ] Python environment set up
 - [ ] Dependencies installed
 - [ ] Data exploration completed
 - [ ] Data structure understood
 - [ ] First QGIS map created
-- [ ] Results saved to `/outputs/`
+- [ ] Results saved to /outputs/
 
 ---
 
-**Ready to analyze climate and conflict? Let's go! 🌍**
+**Ready to analyze climate and conflict? Let's go!**
